@@ -1,0 +1,7 @@
+# desktop-tutorial
+
+> An empty placeholder repository created automatically by GitHub Desktop on first sign-in, used to prove the push path works. No files, no README, no searchable content.
+
+## Notes
+- files: 0; the tree is empty.
+- Kept only as a record that the GitHub Desktop client can reach this account.
